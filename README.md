@@ -1,3 +1,3 @@
 Orientação do Projeto:
 
-Criação calculadora em JavaScript 
+Criação de Calculadora de Desconto em JavaScript 
